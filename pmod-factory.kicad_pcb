@@ -228,7 +228,7 @@
 		(path "/058d0e6e-41a3-4030-851c-75f0e85b390e")
 		(sheetname "Root")
 		(sheetfile "pmod-factory.kicad_sch")
-		(attr smd dnp)
+		(attr smd)
 		(fp_line
 			(start -1.25 2.75)
 			(end 1.25 2.75)
@@ -821,7 +821,7 @@
 		(path "/36770514-ae29-4228-b511-a97337e2e181")
 		(sheetname "Root")
 		(sheetfile "pmod-factory.kicad_sch")
-		(attr smd dnp)
+		(attr smd)
 		(fp_line
 			(start -1.25 2.75)
 			(end 1.25 2.75)
@@ -1428,7 +1428,7 @@
 		(path "/0aec4edc-f403-4107-8376-88dc96d7e9d4")
 		(sheetname "Root")
 		(sheetfile "pmod-factory.kicad_sch")
-		(attr smd dnp)
+		(attr smd)
 		(fp_line
 			(start -0.14058 0.51)
 			(end 0.14058 0.51)
@@ -2774,7 +2774,7 @@
 		(path "/e49985cc-abd1-496d-adaa-2157e53b7a7c")
 		(sheetname "Root")
 		(sheetfile "pmod-factory.kicad_sch")
-		(attr smd dnp)
+		(attr smd)
 		(fp_line
 			(start -0.237258 0.5225)
 			(end 0.237258 0.5225)
@@ -2998,7 +2998,7 @@
 		(path "/fbbfaaa4-35d2-4d8b-8049-41bd5d539849")
 		(sheetname "Root")
 		(sheetfile "pmod-factory.kicad_sch")
-		(attr smd dnp)
+		(attr smd)
 		(fp_line
 			(start -1.25 2.75)
 			(end 1.25 2.75)
@@ -3605,7 +3605,7 @@
 		(path "/f7b8f293-7eab-4947-a69b-25c8784d6712")
 		(sheetname "Root")
 		(sheetfile "pmod-factory.kicad_sch")
-		(attr smd dnp)
+		(attr smd)
 		(fp_line
 			(start -0.14058 0.51)
 			(end 0.14058 0.51)
@@ -4673,7 +4673,7 @@
 		(path "/2d0d84b8-a350-4890-9e1a-16fb16e33033")
 		(sheetname "Root")
 		(sheetfile "pmod-factory.kicad_sch")
-		(attr smd dnp)
+		(attr smd)
 		(fp_line
 			(start -1.25 2.75)
 			(end 1.25 2.75)
@@ -6012,7 +6012,7 @@
 		(path "/74c55a62-0fdc-4778-9ae2-9d3956693e7d")
 		(sheetname "Root")
 		(sheetfile "pmod-factory.kicad_sch")
-		(attr smd dnp)
+		(attr smd)
 		(fp_line
 			(start -0.14058 0.51)
 			(end 0.14058 0.51)
@@ -7988,7 +7988,7 @@
 		(path "/9fbc7721-5b76-44d1-babe-9961e3547ed2")
 		(sheetname "Root")
 		(sheetfile "pmod-factory.kicad_sch")
-		(attr smd dnp)
+		(attr smd)
 		(fp_line
 			(start -0.237258 0.5225)
 			(end 0.237258 0.5225)
@@ -8239,7 +8239,7 @@
 		(path "/dd3e32af-45f5-4a6b-9319-b82e1967b5b1")
 		(sheetname "Root")
 		(sheetfile "pmod-factory.kicad_sch")
-		(attr smd dnp)
+		(attr smd)
 		(fp_line
 			(start -0.237258 0.5225)
 			(end 0.237258 0.5225)
@@ -8463,7 +8463,7 @@
 		(path "/c93d8f0c-1852-4b50-983f-8e1c0530f163")
 		(sheetname "Root")
 		(sheetfile "pmod-factory.kicad_sch")
-		(attr smd dnp)
+		(attr smd)
 		(fp_line
 			(start -1.25 2.75)
 			(end 1.25 2.75)
@@ -9056,7 +9056,7 @@
 		(path "/4bf5933b-2035-4e41-88c7-3ac53cb04c1f")
 		(sheetname "Root")
 		(sheetfile "pmod-factory.kicad_sch")
-		(attr smd dnp)
+		(attr smd)
 		(fp_line
 			(start -1.25 2.75)
 			(end 1.25 2.75)
@@ -10174,7 +10174,7 @@
 		(path "/8fb98947-153d-4525-a588-bae4fcfc6f68")
 		(sheetname "Root")
 		(sheetfile "pmod-factory.kicad_sch")
-		(attr smd dnp)
+		(attr smd)
 		(fp_line
 			(start -0.237258 0.5225)
 			(end 0.237258 0.5225)
@@ -10425,7 +10425,7 @@
 		(path "/4bc6cce6-9cd2-4235-8142-f18ac7de77ec")
 		(sheetname "Root")
 		(sheetfile "pmod-factory.kicad_sch")
-		(attr smd dnp)
+		(attr smd)
 		(fp_line
 			(start -0.237258 0.5225)
 			(end 0.237258 0.5225)
@@ -11138,7 +11138,7 @@
 		(path "/d6643820-2efe-4099-8f8c-184e5753776f")
 		(sheetname "Root")
 		(sheetfile "pmod-factory.kicad_sch")
-		(attr smd dnp)
+		(attr smd)
 		(fp_line
 			(start -1.25 2.75)
 			(end 1.25 2.75)
@@ -12480,7 +12480,7 @@
 		(path "/e8aa026f-6b79-406f-a34d-b589a6ccf5fe")
 		(sheetname "Root")
 		(sheetfile "pmod-factory.kicad_sch")
-		(attr smd dnp)
+		(attr smd)
 		(fp_line
 			(start -1.25 2.75)
 			(end 1.25 2.75)
@@ -14538,7 +14538,7 @@
 		(path "/ec3a320b-0d97-4d56-b908-7b42fecbcc92")
 		(sheetname "Root")
 		(sheetfile "pmod-factory.kicad_sch")
-		(attr smd dnp)
+		(attr smd)
 		(fp_line
 			(start -1.25 2.75)
 			(end 1.25 2.75)
@@ -15158,7 +15158,7 @@
 		(path "/2b20fff9-167c-41ba-992f-7a14edcfef06")
 		(sheetname "Root")
 		(sheetfile "pmod-factory.kicad_sch")
-		(attr smd dnp)
+		(attr smd)
 		(fp_line
 			(start -0.237258 0.5225)
 			(end 0.237258 0.5225)
@@ -18569,7 +18569,7 @@
 		(path "/fde6ec11-4e53-4055-848e-ea4b9b8b823d")
 		(sheetname "Root")
 		(sheetfile "pmod-factory.kicad_sch")
-		(attr smd dnp)
+		(attr smd)
 		(fp_line
 			(start -0.14058 0.51)
 			(end 0.14058 0.51)
@@ -19542,7 +19542,7 @@
 		(path "/529465ec-122e-4331-8450-8d3ac5d1e2df")
 		(sheetname "Root")
 		(sheetfile "pmod-factory.kicad_sch")
-		(attr smd dnp)
+		(attr smd)
 		(fp_line
 			(start -1.25 2.75)
 			(end 1.25 2.75)
@@ -20149,7 +20149,7 @@
 		(path "/cbd9323e-a2b7-4326-9172-66b0071fd904")
 		(sheetname "Root")
 		(sheetfile "pmod-factory.kicad_sch")
-		(attr smd dnp)
+		(attr smd)
 		(fp_line
 			(start -0.14058 0.51)
 			(end 0.14058 0.51)
@@ -20889,7 +20889,7 @@
 		(path "/73f9103f-8e81-4cb8-913d-2bf4ed88c27b")
 		(sheetname "Root")
 		(sheetfile "pmod-factory.kicad_sch")
-		(attr smd dnp)
+		(attr smd)
 		(fp_line
 			(start -0.237258 0.5225)
 			(end 0.237258 0.5225)
@@ -21127,7 +21127,7 @@
 		(path "/184a8bf7-688a-4d4e-adda-540d99b8dc04")
 		(sheetname "Root")
 		(sheetfile "pmod-factory.kicad_sch")
-		(attr smd dnp)
+		(attr smd)
 		(fp_line
 			(start -0.14058 0.51)
 			(end 0.14058 0.51)
@@ -21378,7 +21378,7 @@
 		(path "/7e2a992a-aead-4c11-87ef-753e403f53e6")
 		(sheetname "Root")
 		(sheetfile "pmod-factory.kicad_sch")
-		(attr smd dnp)
+		(attr smd)
 		(fp_line
 			(start -0.237258 0.5225)
 			(end 0.237258 0.5225)
@@ -21867,7 +21867,7 @@
 		(path "/c469e6f5-da5e-437b-836c-9534d59b8c73")
 		(sheetname "Root")
 		(sheetfile "pmod-factory.kicad_sch")
-		(attr smd dnp)
+		(attr smd)
 		(fp_line
 			(start -0.237258 0.5225)
 			(end 0.237258 0.5225)
@@ -22118,7 +22118,7 @@
 		(path "/6bef0279-0f75-4c27-9988-79f54da92ae8")
 		(sheetname "Root")
 		(sheetfile "pmod-factory.kicad_sch")
-		(attr smd dnp)
+		(attr smd)
 		(fp_line
 			(start -0.237258 0.5225)
 			(end 0.237258 0.5225)
@@ -23360,7 +23360,7 @@
 		(path "/6a874393-686c-4432-ac4f-fa1fbe1c7c53")
 		(sheetname "Root")
 		(sheetfile "pmod-factory.kicad_sch")
-		(attr smd dnp)
+		(attr smd)
 		(fp_line
 			(start -0.237258 0.5225)
 			(end 0.237258 0.5225)
@@ -24845,7 +24845,7 @@
 		(path "/42cac6b6-cba7-4b17-8341-9affea741e60")
 		(sheetname "Root")
 		(sheetfile "pmod-factory.kicad_sch")
-		(attr smd dnp)
+		(attr smd)
 		(fp_line
 			(start -0.237258 0.5225)
 			(end 0.237258 0.5225)
@@ -28886,7 +28886,7 @@
 		(path "/b1eb5a28-764e-4275-a117-858d0799402a")
 		(sheetname "Root")
 		(sheetfile "pmod-factory.kicad_sch")
-		(attr smd dnp)
+		(attr smd)
 		(fp_line
 			(start -0.14058 0.51)
 			(end 0.14058 0.51)
@@ -29110,7 +29110,7 @@
 		(path "/571dde7e-0a6e-46da-96e3-a4c0486acd5d")
 		(sheetname "Root")
 		(sheetfile "pmod-factory.kicad_sch")
-		(attr smd dnp)
+		(attr smd)
 		(fp_line
 			(start -1.25 2.75)
 			(end 1.25 2.75)
@@ -29730,7 +29730,7 @@
 		(path "/c45b54e9-d894-46d6-814c-5d9b9532239d")
 		(sheetname "Root")
 		(sheetfile "pmod-factory.kicad_sch")
-		(attr smd dnp)
+		(attr smd)
 		(fp_line
 			(start -0.237258 0.5225)
 			(end 0.237258 0.5225)
@@ -30453,7 +30453,7 @@
 		(path "/a49a8c74-cc6c-4604-8608-3ef5a7e464d9")
 		(sheetname "Root")
 		(sheetfile "pmod-factory.kicad_sch")
-		(attr smd dnp)
+		(attr smd)
 		(fp_line
 			(start -0.14058 0.51)
 			(end 0.14058 0.51)
@@ -30677,7 +30677,7 @@
 		(path "/f7529bd7-cffd-4736-b5b6-aea9c33aa56f")
 		(sheetname "Root")
 		(sheetfile "pmod-factory.kicad_sch")
-		(attr smd dnp)
+		(attr smd)
 		(fp_line
 			(start -1.25 2.75)
 			(end 1.25 2.75)
@@ -32023,7 +32023,7 @@
 		(path "/a820ee10-8169-4a3f-af70-2e2ad4360d6c")
 		(sheetname "Root")
 		(sheetfile "pmod-factory.kicad_sch")
-		(attr smd dnp)
+		(attr smd)
 		(fp_line
 			(start -1.25 2.75)
 			(end 1.25 2.75)
@@ -33352,7 +33352,7 @@
 		(path "/d2d8effe-3143-431c-a6de-4853297227c2")
 		(sheetname "Root")
 		(sheetfile "pmod-factory.kicad_sch")
-		(attr smd dnp)
+		(attr smd)
 		(fp_line
 			(start -1.25 2.75)
 			(end 1.25 2.75)
@@ -33972,7 +33972,7 @@
 		(path "/66c93c73-04bc-48be-95be-157133bfa0a4")
 		(sheetname "Root")
 		(sheetfile "pmod-factory.kicad_sch")
-		(attr smd dnp)
+		(attr smd)
 		(fp_line
 			(start -0.237258 0.5225)
 			(end 0.237258 0.5225)
@@ -35036,7 +35036,7 @@
 		(path "/3546cd08-ccc7-4b95-ad1e-d62b99db495a")
 		(sheetname "Root")
 		(sheetfile "pmod-factory.kicad_sch")
-		(attr smd dnp)
+		(attr smd)
 		(fp_line
 			(start -1.25 2.75)
 			(end 1.25 2.75)
@@ -35907,7 +35907,7 @@
 		(path "/e97c7688-a7d8-43c1-a63e-5847bc16d574")
 		(sheetname "Root")
 		(sheetfile "pmod-factory.kicad_sch")
-		(attr smd dnp)
+		(attr smd)
 		(fp_line
 			(start -0.237258 0.5225)
 			(end 0.237258 0.5225)
@@ -37568,7 +37568,7 @@
 		(path "/ac530718-538c-4a9c-9769-bddac15ed2f7")
 		(sheetname "Root")
 		(sheetfile "pmod-factory.kicad_sch")
-		(attr smd dnp)
+		(attr smd)
 		(fp_line
 			(start -1.25 2.75)
 			(end 1.25 2.75)
@@ -38188,7 +38188,7 @@
 		(path "/48910881-8341-4c9a-90ec-5575ca259774")
 		(sheetname "Root")
 		(sheetfile "pmod-factory.kicad_sch")
-		(attr smd dnp)
+		(attr smd)
 		(fp_line
 			(start -0.237258 0.5225)
 			(end 0.237258 0.5225)
